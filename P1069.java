@@ -1,12 +1,7 @@
 package problem01;
 
-import java.awt.List;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.Scanner;
-import java.util.Set;
-
-import org.junit.Test;
 
 public class P1069 {
 	
